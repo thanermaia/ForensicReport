@@ -184,28 +184,27 @@ scan_firefox() {
     done
 
     sec "Logins Facebook salvos"
-    for pdir in "$base"/*/; do
-        lf="${pdir}logins.json"; [ -f "$lf" ] || continue
-        prof=$(basename "$pdir")
-        python3 -c "
-import json, datetime
-try:
-    with open('$lf') as f:
-        data = json.load(f)
-    for login in data.get('logins',[]):
-        hu = login.get('hostname','')
-        tl = login.get('timeLastUsed',0)
-        tc = login.get('timeCreated',0)
-        if 'facebook' in hu.lower():
-            tl_str = datetime.datetime.fromtimestamp(tl/1000).strftime('%Y-%m-%d %H:%M:%S') if tl else 'N/A'
-            tc_str = datetime.datetime.fromtimestamp(tc/1000).strftime('%Y-%m-%d %H:%M:%S') if tc else 'N/A'
-            print(f'  [$prof]')
-            print(f'    Host: {hu}')
-            print(f'    Criado: {tc_str} | Último uso: {tl_str}')
-except Exception as e:
-    import sys; sys.stderr.write(f'Erro: {e}\n')
+    python3 -c "
+import json, datetime, os, glob
+base = '$base'
+for lf in glob.glob(os.path.join(base, '*', 'logins.json')):
+    prof = os.path.basename(os.path.dirname(lf))
+    try:
+        with open(lf) as f:
+            data = json.load(f)
+        for login in data.get('logins', []):
+            hu = login.get('hostname', '')
+            tl = login.get('timeLastUsed', 0)
+            tc = login.get('timeCreated', 0)
+            if 'facebook' in hu.lower():
+                tl_str = datetime.datetime.fromtimestamp(tl / 1000).strftime('%Y-%m-%d %H:%M:%S') if tl else 'N/A'
+                tc_str = datetime.datetime.fromtimestamp(tc / 1000).strftime('%Y-%m-%d %H:%M:%S') if tc else 'N/A'
+                print(f'  [{prof}]')
+                print(f'    Host: {hu}')
+                print(f'    Criado: {tc_str} | Último uso: {tl_str}')
+    except Exception as e:
+        pass
 " 2>/dev/null
-    done
 }
 
 # ====================================================
