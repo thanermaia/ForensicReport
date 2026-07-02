@@ -1,0 +1,388 @@
+
+[1m[0;36m==== [1/6] Screenshots / Prints com 'facebook' no nome ====[0m
+
+  2026-02-13 04:16:28 | e Modelos de Organograma _ Lucidchart_arquivos/fbc4f4dd-42ba-4d5a-97f1-7b0e8f2f0ddc.png 268274 B | /home/chagas/Downloads/Exemplos
+  2026-02-13 04:16:28 | e Modelos de Organograma _ Lucidchart_arquivos/a6ffc8b3-5088-4604-9175-ed003fb138b2.png 476052 B | /home/chagas/Downloads/Exemplos
+  2026-02-04 19:56:34 | 2026-02-04 at 19-56-34 Meta Business Suite.png 153808 B | /home/chagas/Downloads/Screenshot
+  2026-02-04 15:50:14 | 2026-02-04 at 15-50-14 (20 ) Facebook.png 1321375 B | /home/chagas/Downloads/Screenshot
+[0;32m[+][0m Varredura de screenshots concluída
+
+[1m[0;36m==== [2/6] Downloads (2026-05-01 a 2026-06-01) ====[0m
+
+[0;32m[+][0m Downloads per 2026-05-01 a 2026-06-01 - concluído
+
+[1m[0;36m==== [3/6] Google Chrome ====[0m
+
+
+[1m--- Perfis ---[0m
+  Profile: Blah [atendimento.blahpropaganda@gmail.com]
+  Profile: Seu Chrome []
+  Profile: Thaner [thanermaia@gmail.com, gestaoblah@gmail.com, pimpolhosmaia@gmail.com]
+  Profile: MaHair [mahaircosmetics@gmail.com]
+  Profile: Rudger [pimpolhosmaia@gmail.com]
+  Profile: Seu Chrome [ideiasblahbranding@gmail.com]
+  Default: Seu Chrome [blahdevelopers@gmail.com]
+
+[1m--- Histórico Facebook por perfil ---[0m
+  [Profile 10] Blah [atendimento.blahpropaganda@gmail.com]
+2026-05-26 08:13:57|http://facebook.com/
+2026-05-26 08:13:57|https://facebook.com/
+2026-05-26 08:13:57|https://www.facebook.com/
+  [Profile 5] Rudger [pimpolhosmaia@gmail.com]
+2026-05-26 08:14:21|http://facebook.com/
+2026-05-26 08:14:21|https://facebook.com/
+2026-05-14 04:09:13|https://www.facebook.com/latest/inbox/instagram_direct?selected_item_id=340282366841710301244259736039865863204&bpn_id=2443019225739401&mailbox_id=939905446102140&nav_ref=diode_page_inbox_message_notif&notif_id=1778500741835767&notif_t=bizsuite_ig_direct_jewel&ref=notif
+2026-05-14 04:09:13|https://business.facebook.com/latest/inbox/instagram_direct?selected_item_id=340282366841710301244259736039865863204&bpn_id=2443019225739401&mailbox_id=939905446102140&nav_ref=diode_page_inbox_message_notif&notif_id=1778500741835767&notif_t=bizsuite_ig_direct_jewel&ref=notif
+2026-05-14 04:09:13|https://business.facebook.com/latest/inbox/instagram_direct?asset_id=939905446102140&ir_qe_exposed=1&selected_item_id=340282366841710301244259736039865863204&mailbox_id=939905446102140&nav_ref=diode_page_inbox_message_notif&notif_id=1778500741835767&notif_t=bizsuite_ig_direct_jewel&ref=notif
+2026-05-14 04:09:13|https://business.facebook.com/latest/inbox/instagram_direct?asset_id=939905446102140&business_id=537757793749854&ir_qe_exposed=1&selected_item_id=340282366841710301244259736039865863204&mailbox_id=939905446102140&nav_ref=diode_page_inbox_message_notif&notif_id=1778500741835767&notif_t=bizsuite_ig_direct_jewel&ref=notif
+2026-05-14 03:39:58|https://www.facebook.com/oidc/?app_id=124024574287414&redirect_uri=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignupviafb%2F&response_type=code&scope=openid%20email%20profile%20linking&state=ATqDYgy4chuRAwbMLZzWHqadJ5I_2oLgA6DPoA-77XD4jSMVUK0_bFJyHJPrCm8cgoUZsihp1y3t0tn5xkvHMWed5J9CtceIykfpVKkwoqexsm129F6ZNNPKtTGk0BiA9VLHu6uTMsX4wcA_-bBI1RGRuL3AGtuPaQAlXU4KByDWHLkCHY459hAx3cXIpVM_z0snyHdAbhnFpHTXJBCPygm0c-nT4nGtvULiGbvggQ36m9FCwbdMeAXXimQzyva_yjnwpX2SMrFoKEBkWr9CvM-crw
+2026-05-14 03:33:16|https://www.facebook.com/recover/password/?u=100007832161565&n=60338405&fl=default_recover&spc=1&sih=0&ssb=1&msgr=0&rm=send_email&ext=1778742174&hash=AWe-OV9KTAHIl7vCNKU&a=AT2l7xOLFfG1vw7mq-NfAiOQoRGwEoq88wTq6WztEBnb4yxf3w6KGuzm5kZkIEuT30nqEigH-tbTkhPEMC68Le3hDBAnLl3Oo2tf3L9JOrNSWYvHlzxc0lLqnAAplUwz3z2PASfM-PHK90ABhKhLs1aEBT_aTb-8ZLAyW8MB1HzZuEHbBuRenKGAQMe41nAsvjp4CECIKtirmiJ0ij_hwbHkJMMDBSYi_jiVOU0in0859UTELtudXo6Sy-1f6qy-gikCP5wi1pJ5Ofut9cb6bsIo0g0gYQKy3fDC2E5M2mpSsI7oI0dNU2_uXOUnnoSa_14E_zWjLZcDhflY4c9jx9GAGWRFkWshxBOn8R5M25fK7PRwXKDnqVtoh2C7DBx9nsZixi9aTkFITSyqd9bCdLGmjKKM5aegUUAnDCrT3z3ZsnRWG9SRx9oQupUsHAnnhAIaHz6f_I3t85-oa9x6H67j_W7XULqDeszJbAUlQ33CrgNSpJJyNIZxUwULCetX64zoJzmTDhnkDodqZQuzCQhlhW-rtF9cXMhvaRTLLfc6qT6xFwx-uS0s2uChACs%7Clcptk&checkpoint_src=any
+2026-05-14 03:33:04|https://www.facebook.com/two_factor/remember_browser/?encrypted_context=AWSW-HDDxwV2_1xaStNZn1l2TVurqXBxhvZ_DyIlZv6xHmemuUhrIeDwJ0RSpUx4ergFK-AdEOwnJdjiQg2F3SQJlyrGkwzwToHD2SvUoLBXVUGSsYWlK3qXLzRv63O9GYVIdXRQqvtDdh5zKybhIP7wzbg7RyX6BOgFvesS8-vB0LIWbuogmNygyWoeN5qSJys-mwY6n9BGPdWgrjoQ2kYE-lDUaIKwe00ebxo8h2cVZNy2JIlBcO3XXPbEzyDgRYQvOHHM-h_vsZrAZHPMMKNc9LufnfhjxPmcMkw9nGbdcHT40uvHUkBYbrgTWeHTyM2lROu5tjW9jGxCkyMlOt-1fc1flytzi0PHtcZYMUxGDfcH5t2v-kkxpOY1ZRDQn25Ikj7NI4sS6dB16aol7A2IoPf74pbR-BnUzagrt-8h1qMZCdOWxrBEnlC0bscYAV2SUzbUbZVlVzVvEv1tnyaAtY0nzUzfX2N0hf-_wKKFhy-xM2A-gskkn8WhRFDjE8V0r1SksCGU6bkMbpnUF6zvBCQHQOOjhKvJyyLKPKRAocFvmd0fNxccQMiiX6mJmA8Klm3Exn79t34tOCSBbMk0e0fxkAEr44qJG0itNeWrzOG6Hvr-HIkQAXmZEMCPNdBe7YvxlRLHxNWBVSCauTBYUtuQUqoF2PKSjpczp02Z0pYj7Q&next=https%3A%2F%2Fwww.facebook.com%2Frecover%2Fpassword%2F%3Fu%3D100007832161565%26n%3D60338405%26fl%3Ddefault_recover%26spc%3D1%26sih%3D0%26ssb%3D1%26msgr%3D0%26rm%3Dsend_email%26ext%3D1778742174%26hash%3DAWe-OV9KTAHIl7vCNKU%26a%3DAT2l7xOLFfG1vw7mq-NfAiOQoRGwEoq88wTq6WztEBnb4yxf3w6KGuzm5kZkIEuT30nqEigH-tbTkhPEMC68Le3hDBAnLl3Oo2tf3L9JOrNSWYvHlzxc0lLqnAAplUwz3z2PASfM-PHK90ABhKhLs1aEBT_aTb-8ZLAyW8MB1HzZuEHbBuRenKGAQMe41nAsvjp4CECIKtirmiJ0ij_hwbHkJMMDBSYi_jiVOU0in0859UTELtudXo6Sy-1f6qy-gikCP5wi1pJ5Ofut9cb6bsIo0g0gYQKy3fDC2E5M2mpSsI7oI0dNU2_uXOUnnoSa_14E_zWjLZcDhflY4c9jx9GAGWRFkWshxBOn8R5M25fK7PRwXKDnqVtoh2C7DBx9nsZixi9aTkFITSyqd9bCdLGmjKKM5aegUUAnDCrT3z3ZsnRWG9SRx9oQupUsHAnnhAIaHz6f_I3t85-oa9x6H67j_W7XULqDeszJbAUlQ33CrgNSpJJyNIZxUwULCetX64zoJzmTDhnkDodqZQuzCQhlhW-rtF9cXMhvaRTLLfc6qT6xFwx-uS0s2uChACs%257Clcptk
+2026-05-14 03:32:49|chrome-extension://nngceckbapebfimnlniiiahkandclblb/popup/index.html?uilocation=popout&singleActionPopout=vault_Fido2Popout_0923dd73-8ae4-4da2-aa58-ad6882ccc8fe#/fido2?sessionId=0923dd73-8ae4-4da2-aa58-ad6882ccc8fe&fallbackSupported=true&senderTabId=886933144&senderUrl=https:%2F%2Fwww.facebook.com%2Ftwo_step_verification%2Ftwo_factor%2F%3Fencrypted_context%3DAWSW-HDDxwV2_1xaStNZn1l2TVurqXBxhvZ_DyIlZv6xHmemuUhrIeDwJ0RSpUx4ergFK-AdEOwnJdjiQg2F3SQJlyrGkwzwToHD2SvUoLBXVUGSsYWlK3qXLzRv63O9GYVIdXRQqvtDdh5zKybhIP7wzbg7RyX6BOgFvesS8-vB0LIWbuogmNygyWoeN5qSJys-mwY6n9BGPdWgrjoQ2kYE-lDUaIKwe00ebxo8h2cVZNy2JIlBcO3XXPbEzyDgRYQvOHHM-h_vsZrAZHPMMKNc9LufnfhjxPmcMkw9nGbdcHT40uvHUkBYbrgTWeHTyM2lROu5tjW9jGxCkyMlOt-1fc1flytzi0PHtcZYMUxGDfcH5t2v-kkxpOY1ZRDQn25Ikj7NI4sS6dB16aol7A2IoPf74pbR-BnUzagrt-8h1qMZCdOWxrBEnlC0bscYAV2SUzbUbZVlVzVvEv1tnyaAtY0nzUzfX2N0hf-_wKKFhy-xM2A-gskkn8WhRFDjE8V0r1SksCGU6bkMbpnUF6zvBCQHQOOjhKvJyyLKPKRAocFvmd0fNxccQMiiX6mJmA8Klm3Exn79t34tOCSBbMk0e0fxkAEr44qJG0itNeWrzOG6Hvr-HIkQAXmZEMCPNdBe7YvxlRLHxNWBVSCauTBYUtuQUqoF2PKSjpczp02Z0pYj7Q%26flow%3Dtwo_factor_login%26next%3Dhttps%253A%252F%252Fwww.facebook.com%252Frecover%252Fpassword%252F%253Fu%253D100007832161565%2526n%253D60338405%2526fl%253Ddefault_recover%2526spc%253D1%2526sih%253D0%2526ssb%253D1%2526msgr%253D0%2526rm%253Dsend_email%2526ext%253D1778742174%2526hash%253DAWe-OV9KTAHIl7vCNKU%2526a%253DAT2l7xOLFfG1vw7mq-NfAiOQoRGwEoq88wTq6WztEBnb4yxf3w6KGuzm5kZkIEuT30nqEigH-tbTkhPEMC68Le3hDBAnLl3Oo2tf3L9JOrNSWYvHlzxc0lLqnAAplUwz3z2PASfM-PHK90ABhKhLs1aEBT_aTb-8ZLAyW8MB1HzZuEHbBuRenKGAQMe41nAsvjp4CECIKtirmiJ0ij_hwbHkJMMDBSYi_jiVOU0in0859UTELtudXo6Sy-1f6qy-gikCP5wi1pJ5Ofut9cb6bsIo0g0gYQKy3fDC2E5M2mpSsI7oI0dNU2_uXOUnnoSa_14E_zWjLZcDhflY4c9jx9GAGWRFkWshxBOn8R5M25fK7PRwXKDnqVtoh2C7DBx9nsZixi9aTkFITSyqd9bCdLGmjKKM5aegUUAnDCrT3z3ZsnRWG9SRx9oQupUsHAnnhAIaHz6f_I3t85-oa9x6H67j_W7XULqDeszJbAUlQ33CrgNSpJJyNIZxUwULCetX64zoJzmTDhnkDodqZQuzCQhlhW-rtF9cXMhvaRTLLfc6qT6xFwx-uS0s2uChACs%25257Clcptk
+2026-05-14 03:32:48|chrome-extension://nngceckbapebfimnlniiiahkandclblb/popup/index.html?uilocation=popout&singleActionPopout=vault_Fido2Popout_0923dd73-8ae4-4da2-aa58-ad6882ccc8fe#/fido2?sessionId=0923dd73-8ae4-4da2-aa58-ad6882ccc8fe&fallbackSupported=true&senderTabId=886933144&senderUrl=https%3A%2F%2Fwww.facebook.com%2Ftwo_step_verification%2Ftwo_factor%2F%3Fencrypted_context%3DAWSW-HDDxwV2_1xaStNZn1l2TVurqXBxhvZ_DyIlZv6xHmemuUhrIeDwJ0RSpUx4ergFK-AdEOwnJdjiQg2F3SQJlyrGkwzwToHD2SvUoLBXVUGSsYWlK3qXLzRv63O9GYVIdXRQqvtDdh5zKybhIP7wzbg7RyX6BOgFvesS8-vB0LIWbuogmNygyWoeN5qSJys-mwY6n9BGPdWgrjoQ2kYE-lDUaIKwe00ebxo8h2cVZNy2JIlBcO3XXPbEzyDgRYQvOHHM-h_vsZrAZHPMMKNc9LufnfhjxPmcMkw9nGbdcHT40uvHUkBYbrgTWeHTyM2lROu5tjW9jGxCkyMlOt-1fc1flytzi0PHtcZYMUxGDfcH5t2v-kkxpOY1ZRDQn25Ikj7NI4sS6dB16aol7A2IoPf74pbR-BnUzagrt-8h1qMZCdOWxrBEnlC0bscYAV2SUzbUbZVlVzVvEv1tnyaAtY0nzUzfX2N0hf-_wKKFhy-xM2A-gskkn8WhRFDjE8V0r1SksCGU6bkMbpnUF6zvBCQHQOOjhKvJyyLKPKRAocFvmd0fNxccQMiiX6mJmA8Klm3Exn79t34tOCSBbMk0e0fxkAEr44qJG0itNeWrzOG6Hvr-HIkQAXmZEMCPNdBe7YvxlRLHxNWBVSCauTBYUtuQUqoF2PKSjpczp02Z0pYj7Q%26flow%3Dtwo_factor_login%26next%3Dhttps%253A%252F%252Fwww.facebook.com%252Frecover%252Fpassword%252F%253Fu%253D100007832161565%2526n%253D60338405%2526fl%253Ddefault_recover%2526spc%253D1%2526sih%253D0%2526ssb%253D1%2526msgr%253D0%2526rm%253Dsend_email%2526ext%253D1778742174%2526hash%253DAWe-OV9KTAHIl7vCNKU%2526a%253DAT2l7xOLFfG1vw7mq-NfAiOQoRGwEoq88wTq6WztEBnb4yxf3w6KGuzm5kZkIEuT30nqEigH-tbTkhPEMC68Le3hDBAnLl3Oo2tf3L9JOrNSWYvHlzxc0lLqnAAplUwz3z2PASfM-PHK90ABhKhLs1aEBT_aTb-8ZLAyW8MB1HzZuEHbBuRenKGAQMe41nAsvjp4CECIKtirmiJ0ij_hwbHkJMMDBSYi_jiVOU0in0859UTELtudXo6Sy-1f6qy-gikCP5wi1pJ5Ofut9cb6bsIo0g0gYQKy3fDC2E5M2mpSsI7oI0dNU2_uXOUnnoSa_14E_zWjLZcDhflY4c9jx9GAGWRFkWshxBOn8R5M25fK7PRwXKDnqVtoh2C7DBx9nsZixi9aTkFITSyqd9bCdLGmjKKM5aegUUAnDCrT3z3ZsnRWG9SRx9oQupUsHAnnhAIaHz6f_I3t85-oa9x6H67j_W7XULqDeszJbAUlQ33CrgNSpJJyNIZxUwULCetX64zoJzmTDhnkDodqZQuzCQhlhW-rtF9cXMhvaRTLLfc6qT6xFwx-uS0s2uChACs%25257Clcptk
+2026-05-14 03:32:44|https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=AWSW-HDDxwV2_1xaStNZn1l2TVurqXBxhvZ_DyIlZv6xHmemuUhrIeDwJ0RSpUx4ergFK-AdEOwnJdjiQg2F3SQJlyrGkwzwToHD2SvUoLBXVUGSsYWlK3qXLzRv63O9GYVIdXRQqvtDdh5zKybhIP7wzbg7RyX6BOgFvesS8-vB0LIWbuogmNygyWoeN5qSJys-mwY6n9BGPdWgrjoQ2kYE-lDUaIKwe00ebxo8h2cVZNy2JIlBcO3XXPbEzyDgRYQvOHHM-h_vsZrAZHPMMKNc9LufnfhjxPmcMkw9nGbdcHT40uvHUkBYbrgTWeHTyM2lROu5tjW9jGxCkyMlOt-1fc1flytzi0PHtcZYMUxGDfcH5t2v-kkxpOY1ZRDQn25Ikj7NI4sS6dB16aol7A2IoPf74pbR-BnUzagrt-8h1qMZCdOWxrBEnlC0bscYAV2SUzbUbZVlVzVvEv1tnyaAtY0nzUzfX2N0hf-_wKKFhy-xM2A-gskkn8WhRFDjE8V0r1SksCGU6bkMbpnUF6zvBCQHQOOjhKvJyyLKPKRAocFvmd0fNxccQMiiX6mJmA8Klm3Exn79t34tOCSBbMk0e0fxkAEr44qJG0itNeWrzOG6Hvr-HIkQAXmZEMCPNdBe7YvxlRLHxNWBVSCauTBYUtuQUqoF2PKSjpczp02Z0pYj7Q&flow=two_factor_login&next=https%3A%2F%2Fwww.facebook.com%2Frecover%2Fpassword%2F%3Fu%3D100007832161565%26n%3D60338405%26fl%3Ddefault_recover%26spc%3D1%26sih%3D0%26ssb%3D1%26msgr%3D0%26rm%3Dsend_email%26ext%3D1778742174%26hash%3DAWe-OV9KTAHIl7vCNKU%26a%3DAT2l7xOLFfG1vw7mq-NfAiOQoRGwEoq88wTq6WztEBnb4yxf3w6KGuzm5kZkIEuT30nqEigH-tbTkhPEMC68Le3hDBAnLl3Oo2tf3L9JOrNSWYvHlzxc0lLqnAAplUwz3z2PASfM-PHK90ABhKhLs1aEBT_aTb-8ZLAyW8MB1HzZuEHbBuRenKGAQMe41nAsvjp4CECIKtirmiJ0ij_hwbHkJMMDBSYi_jiVOU0in0859UTELtudXo6Sy-1f6qy-gikCP5wi1pJ5Ofut9cb6bsIo0g0gYQKy3fDC2E5M2mpSsI7oI0dNU2_uXOUnnoSa_14E_zWjLZcDhflY4c9jx9GAGWRFkWshxBOn8R5M25fK7PRwXKDnqVtoh2C7DBx9nsZixi9aTkFITSyqd9bCdLGmjKKM5aegUUAnDCrT3z3ZsnRWG9SRx9oQupUsHAnnhAIaHz6f_I3t85-oa9x6H67j_W7XULqDeszJbAUlQ33CrgNSpJJyNIZxUwULCetX64zoJzmTDhnkDodqZQuzCQhlhW-rtF9cXMhvaRTLLfc6qT6xFwx-uS0s2uChACs%257Clcptk
+2026-05-14 03:30:50|https://www.facebook.com/recover/code/?em[0]=t*****a%40gmail.com&em[1]=c*****h%40gmail.com&rm=send_email&cuid=AYj3VIQb-uYSM3QGMFKuip79V6AAX6UEB6go6dhb4FcM3gsejScjPJZAED4sxiVpF5Oznmtkuux75RUgp2SZO1EAxK6gTStGErw720IrY_77deVo4D6PpzKy-enWBwamn-_CnrHTuckwVVn31w90nianzWVC3b6CpeqxlD2Q6fx2Nk0iZsj5Imk8Mvphs3P8ZPKvvVWAg4DaFE6bJdZfUFxnG7LbOJjvJ1efF2fmTsjUpDWgjHBlr0ROknFkPLBMsIGAo1Wnl8E8qDwKh7IW-Fl56OkUvonO26en-M7I6a5TY6M82pdH7B7MGFrXZLa2Y3Rq3yBScGhDwOu68KfQtBCQ&hash=AUd4yvlsw7hWM6rjLxQ
+2026-05-14 03:30:44|https://www.facebook.com/recover/initiate/
+2026-05-14 03:30:40|https://www.facebook.com/login/help.php?st=opw&lwv=120&lwc=1348060
+2026-05-14 03:29:45|https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110
+2026-05-14 03:27:09|https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbit.ly%2Fvault-portal-access
+2026-05-14 03:24:36|https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbit.ly%2FS2Secret
+  [Profile 6] Seu Chrome [ideiasblahbranding@gmail.com]
+2026-05-26 06:44:08|https://www.facebook.com/oidc/?app_id=124024574287414&redirect_uri=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignupviafb%2F&response_type=code&scope=openid%20email%20profile%20linking&state=ATq_undLp2_uW5qcYRm0H6kmrizKcrCbYo8c7OMTpUiMH56EfGcRrJyAd4KclSZRFL1NERIEVQlD5NmMAilUfxcWqt6HFO2CKuuS1OJ5PyvXqt0EPggus93Pe8bFeZZhiPrwxzBCrNGUWaca3-sZ9QcM9dN3ilgE8-cwFZE1DLXUxQhLuCqc2Ki7nAH5UDhebK7iriyiwLZfXdtWuoWmZ3u3Bq8_LjkOyBsR6zkb-_4ruMhoIlfHOYZAAV1kgeLrmrgXwyCPpY7CJR378A1943URGg
+2026-05-26 06:44:08|https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Foidc%2F%3Fapp_id%3D124024574287414%26redirect_uri%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fsignupviafb%252F%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bprofile%2Blinking%26state%3DATq_undLp2_uW5qcYRm0H6kmrizKcrCbYo8c7OMTpUiMH56EfGcRrJyAd4KclSZRFL1NERIEVQlD5NmMAilUfxcWqt6HFO2CKuuS1OJ5PyvXqt0EPggus93Pe8bFeZZhiPrwxzBCrNGUWaca3-sZ9QcM9dN3ilgE8-cwFZE1DLXUxQhLuCqc2Ki7nAH5UDhebK7iriyiwLZfXdtWuoWmZ3u3Bq8_LjkOyBsR6zkb-_4ruMhoIlfHOYZAAV1kgeLrmrgXwyCPpY7CJR378A1943URGg
+2026-05-25 20:06:54|https://www.facebook.com/recover/account
+2026-05-25 20:06:54|https://www.facebook.com/auth_platform/lrr_limbo/?apc=Q-PTBANlLyssyEXwcBzhVhIupoUByHuKFoInlxsza7Wk4Fr839HLsKSJapJTPIhpoGnxa2TpEfC0NtO5D6BMXcfCY_W2CxPgHKfSQ0E9b-aH6NjQljQWg9OkaA4oJt8IwiYUyp_8OnmnTwAZ1Mp4f8A1N_TQuiHJSQybRDEcXTse---s5IMjvGOjkWnc7avG_REcz_-aaRaOasecJ3mh-xZhj38cmWPMC-wkX4iYGKx3M5HsnYGRU9R-nrK5Vk46GBLn42rtxkacHJm6lSmgKtTrEFZfmonrAw3w0HP2-MVUiJG0gnre3s3gh07fPPYZRedFJARc5vZZi8QNm8p9J_ABYRm_0euONvMOXvHwU79wItDzjh3cxNnU1-bGe4fAK5DyONE4UX1qy3MKTMB0GRMEJIkinpLK_QFTE-qMrBMkENBXXJ2M_R4KSxl_A9_Yb6MC8TP5SUo3iYo1ZOluKBBx8fBOSN_cq9gTLkA_bkcDP8KoRfG3adAggv8n1yFqTyPtJyJ2bR-IlODqHD2Jd12hrH6kHaQVOmN1ztPGgI5uSiN5EqYp4rr0wWVi8jgJTVLATztc0mFZZh_fR74AZFfLPu1Dj1KpktN8mKF1lop45GSUpw0ZNn-XwlFpxUHlU1N6pP6V3n4fFHXYlnEt5wEGNzsGBgpjsdq6LpqPOx2Y6M1DfieZrgTuxcVVPfS6cUwyur4NbSKyRtG1fEpgkydxqsLuR9TO1mHNIJtNoPy5KUM6gX4cK_tL_DPa60ZZ-oowLTRBkm2ys0wvDCfw1z3JqNpFT3BsHRt5ef-wLYZfgToV3GNEi1q9E282aBoOkWgr4eJa9unGauFbgGeU-qjxo_Wlqf0330v-prV3zhNIzanYkTMTbZdbNjZPgU0TXX0CvqCwbOBbxEyX6rrxor2BIvVH1ka31pTzyCTgJrldy-PX9z7dTDSepGx8G2OXxQ9Ue8rpMepgXMYwyAYo2UuSK4mJPKNrx-ZHRjMd75BDY8jT2g3HKiNlinH_4xGM4v5gDyjwp3Cs7s-B2FLz6VtJJx5S32zy5i5AeM2injPHk9WKUrFaW_PndBwlTY54hA-f3gfifmAmqTUEYbRjWe-2HoXqFgjV3Bt2wecwyuuWA4ppESTmqylalPipkoItVNU0xjv_5D_jxJFTv4YS3SkHpoHarwHAOJVZRBj5uZCBvKcnGT9F_U_yVN1OsBcP8LJuWtrMxwkpsr4_WcqsozMkIaUcZV2Bu4uxgRBYHZubWiFqWBpw282L8HO2nVpdlTdd3L3ygSyYd8Gx8dMGV2cmOKTgaC1IRqCDSQlUJHcyR8eAJRiBVicIW1YTbhQg7GY6990o4XeviWLogLyUKi2XA4xPq6Bmkx5_N6H3zIg3B9wuCIAvPEoQQtyJ_Da9Xc5ejKwYpVIdeJmXgjjkpjqsRo7McfQIU4jaPx6uk20MKx6Y4OXV_8NIY1LTMKuV8YuoqI8eZChYfJpeKCAS-blAKEkvIJTw62htO3NbgyVgkIIcFRxsiKjAmUM1PCJpSB3M7xpcr15A0NevuBSgwKGMQxAC4mJ4zD2Qs6H-2ZYJ7R8lh-b0Eu9DIRp5xzTOuCnnkvbfJYlg3DMAb519UFiGSvY4shvCzcfqHPYDOEE-rpWRCOeA7Nkp1rurpzZja3Wa06D1RmJHEKQeV-VebiACowkmTDj4AkhRC6rIjFO5PyteIyO41hk4XNgojq_ey3cz1v5lj-VGvUIKDs7oMn-AAhHwOF23EMfpna4KRawnahU6cgt9aqDdg2OUjaOOXcI9eSg5NcFQbazV4OwDMMngCE5TcKjAC4WjDxRt_65sma3eNL8IE1ljnh4drpf1TT_zBfU97OHJbCA5XYp0XjZWKAvjDkyGrKv5gvPNOw-I9RAt-9RrV1kwZcN1n9tTlV1bBUSsG539frHtITRbTG1EGwSq6cNdbPwHVjAG2MZWqcR2SlYtqbomxL6aeXRSbkj-ZLpoGRWOYy6pweJ-2s3Qu0RJv-lNLEgDeutzFw_mCr0H7mfQuBstBjOkYicf1osjL0LeBHtbnUf4Ut7KOFW6vfOyX8nrAwzGJzfQKbioBPEZTcRZDWIVR8x9DJlxqKTPT8msn0DQnSDFFD_kBbkSjW031P5NeOW-7C2vxUk9z8aF41nk7I2FQq5VbLOwFqWxttoNhLT78pRuFTxrbBmHWqGvQD2o0FR5ygcs_4PdcHMFZ5jNyoDgiOnKbwMZ55ldzcUechY%7Caplrr&attempt_id=AvBKfnJcWSh6m-DmVfq1yQp&cuid=AYjKb-zGGYLoW73TdMFQDxArKqHEODioW5wi9TQhCyFXtMTE_ra-WtTnELJSo8JdLUcyp69hcLZEHqh6MbakJMeGUWokIYXdJGxqtyMsvUA1TKD_TI6OBmWNWki9f_01GWzihsa2nOuDjZhYxPtuINbSbYg3SR6jXra0X3XRrtbvzbO6W5pqG1xweuL1ddbRTjcPDSDgvQWL3TnIS_FojPTE5ts3JYCLVU7zk97yIJgiFw&skip_back_to_login=1
+2026-05-25 20:06:49|https://www.facebook.com/recover/initiate/?ci=AdDDfCPKDLCxofvZcV9FRXQ0Gqwr3612ypnn-NdiRGZZsueWs9A8JDJD5ZJI-TTJd73e83Jw4Sp2Wq4fn2KeRXVpn9-xziM8qXaLsbhYVmWnWWQQPJpMkedGzpqXK_1wlirt1hnWsDjuEtAt3K8kM8tP2MeWkvhhOYr5QekBumLikFMXJ99l3b2TbwK1uhkTpueMNx0Zexwn2nX3R2F5aPsNG4ZSwqOuDOy4_3haTIqzSfmi2EVNXXBcvjDVnr1GE9L8SkTrmJe1OKC9wRHFf_lV_05IFTajed2Zdo3CV-6yAFAxqtVhmUZfwZECNhoiQNNjYKkl2ioKb-UuuVgshv3Basrvvp1OuHLuB8expAw0xdStriNioeTYbZhAYhkgg2fUJDngdSmo13d6TB138NrkxRAfznam1uxsNncqcWTwFRzivGIqoV_5sysWKmXzOXhSPT9dPHQ-BBVT4zeElMOpRW71Nn2LqfWxWqGlH8df4S-4uYvurwioPAyqKgZ95hLrHmT_kedQh-Wz6ZrkDrg-Mo4Mlb2cJbH_h2jrP7Gd4EKWLxyHtlO7inNOlfX5izNGd_ODBNoRIcqnfx3odLXEPVPzSc8y4Zp7RTg8FL0DU5c278tXBecSgbwhjNaOSdBl-WEIK1qJryzYziEkK2OUnGqapOfzvvviFiMGtk0Gl5HByXn17wgr9xUQRnJCJezsvhoWtrp40jDmREnaYth_SFCCQIKOOlDG0gKXyWCi_JAlfXhmiZ5_xuY0UNUpbS-m0kfSTjvS-VjomxArFA75SnivfgyqDBE7Opl0FuOYgWOxUIpE4-K52nNYJqNhH6smgGf0NEgq_Kl5ahTxx6jK_BpkFXWCFMQLkckLNtDvCHLEBvz4xwextKlnnYtsn8hM-pJx4JQbpBtsckC3Jk8-HHqLVvwYV5Qk4xPmikp_11pxh-kBpDa-0dgxwCtWCnz9fMOv5tEUr4XwuzoNhwFK7XftSY8lYKAh30RXjRHeqPuZ9tqh53R8pXBrXaN8eoDlSnG3tmWosQpSySEKcDOzzZHj3vkb0CDBV4w0O-Y6mQ
+2026-05-25 20:06:39|https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjo1LCJjcmVhdGlvbl90aW1lIjoxNzc5NzUwMzU5fQ%3D%3D&ars=facebook_login
+2026-05-25 20:06:39|https://www.facebook.com/login/identify/?ci=AdAGJipvuDLXX1SrxUjFZQgYZ8PSeh30iCSB_Ixhwqw5OD6jUBdUM9hR24gXbq6wnN5qGEQs3TfveZRNGGbm7gb5C7Llid25jzUoQbln3-6Jgfg4A3Qq3btlQ5w_V1y3vY2_83im4yP40LsbDahVEvPofH_Fggg3pB1Y3HePGQhXRfrWer95i_VqmygqOWKiluHR7M3l4y3_IcjYhUxP-DuZQubnm-bX0NbtD3tfoE_qQRQqcfHVmv15I_UR9dJYLESuqw2Iqh8vCjIZMMYUKkoh6T8
+  [Default] Seu Chrome [blahdevelopers@gmail.com]
+2026-05-27 23:10:28|https://www.facebook.com/login/device-based/oidc?app_id=1217981644879628&scope=openid&response_type=code&state=ATorzrL7uFy9GI3F_SZBfeBi1Yd8VFi4uRZjwjxLt8PBskNG8vLIKns74cwvhBPksllPcbycWyH9Yv4jukKr9B43BiLs8flW4mNeDXGkqmHq4FK6lJCpAOkPfRwwok4kjavBYbE4Owm-_552EjWPJk4DvLXlT_-smbduSlUjeAX4snjO43fbRmf_IOALu1Mvmwf0as2Wd0EUN_SQyyCZUQyn2oCiPe8Q81XnSn02gAjWxWeHo4lQMhXOUAQnXrfVzglbb1rMG3A86PdgbSG_uSfzp3AUVan3xMhQoekrMLHGG8Fpm3uBq3ezgJE9hEOj6fQvj4dg4wtRUeVXLxMMX0coDOjXGAKM6zgHv_0UkE_Yzrh7pI_JlAGYcNktPCIhxar59mJJ1Q-wzaUNLvjMrRb_Cxx3Yy4iuCiNR_Z9N80gzmaDdEXLYYmmogI86waTqaM-tslfvcGN0ZzQDmONviEp3YzRqP9TzKT5bARx9WRoE-Aae8imn-OyW5Zvj6HF6jGBqiXyQqJebfrcRzt6OWdYMV9DPzAK2mlLnT5_A6QUgeGptcWJYthCK8bR0ubte3w73IjB8HTMiSKvLWy5dwE1L_0odEmQVCoLBmhib3efRoLBn0fZhwDCNzFHidkGjofxfuzox9gp1ZI2pfZ3D_AVkjDROIUAj6VzIA7T_cGMbIumKR_rpCiOZxbgNYD136-sd2mXfwKn1YdIMstS3wskMi3e6NH80d8aX14_aLHtpiBP6RR8H4Z2s3SEYJIQ1Np9EjeXUeltaquSv9CMePD8KC65knC8Mlg87oQBtkZOtMJDR9M7U2Mb-z8UCCiXB-M_uFdgk-cl1L7zl8tIPRXgEFjYaDHZPeBIfP7Rh3n1OlzcE8D-aGcFr4yFyw5pN7qR-OEdJex3lJVtjahKD_EkfgvjdEokn1Yr0VahwF0cWArkYoArIkgMh3XgiXlIGAgiwVWMG7fWO2joZSG4XZb6xal9YVAJkRmXV4QSRAnGFsQMq-_Kp9J_sAzeiszMkvDFPkwLMaNCGSLyUSfJFoWBu4a09uwoQzxqkcFdrvpIPmOgBbbTfkt0BVhLyW0INyFkfJ6MQVP8plDi-ePuZTfYmpUeqpQkPJknzODryZCfFin-SMxYWK7_Tr3DHKDmxDNOxEtLnFMIujDvN4S8HswVZJ32YxGDXyYZMUVYJjmh_favKQ9yqzZNuuiyFnMGm_0SxRYKFVzIaF9NNBkuwTvDcpCgM1NQT8WyPXGN&redirect_uri=https%3A%2F%2Fwww.instagram.com%2Flogin%2Foidc%2F
+2026-05-27 22:46:27|https://www.facebook.com/oidc/?app_id=124024574287414&redirect_uri=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignupviafb%2F&response_type=code&scope=openid%20email%20profile%20linking&state=ATpSgxCJqYza11609jx1Hi4yvpv9e_AJgWjKHKxZYtUEKFuzbb-MlBBAOvqL7N3lQ3q2EXt8l1jxpExxQ31NHD8xU503CM3o2S3UUdStDCAeeY6LNlSNeEYh5FzL178RbTK7KxNrJuv_Ivcv7-dWt5wB80-dwrpQGDTrP4wwOkngI0HuqeUFDBfwWnovliV9HjXDNdbQCC4awdr6L_YSbMAX-K0kj4S3Lg5VuYZ1Aj4ueLGgaJM9l5QGwDZmcpxFghdHVUuuf73MJqYZ0hD1edCMYQ
+2026-05-27 22:46:03|https://www.facebook.com/login/device-based/oidc?app_id=1217981644879628&scope=openid&response_type=code&state=ATqM8xa-3kMjxFhzoksCm6bCAxc-ReQupgnpdhVZ7R-CV_4Tzy06kZidBLe2KcaRYElmw9OqejwKFBv0f6zhL-E3eRtGHN5XYmBtTTZxogHqa2lJOyhyOB6c1HHc-IKrht3xsvauNOm7f_b0PqZ-f9km4nMR_Zom0UC5vSlSS2H1hfIlrXAs8fEACgCfqqvOuszuGWtcr1V_phzSfl2msFo6Tb-Ad6-a3N92gkJTpaedr-SQ4RwBVo0mbxFdPoXVJ-ibpNdOelnLIBpIGHDBiR4NPr7w-EBFGbRJBt08KKulJ4QA9xRvjlpvWRXJnWrstPBdYCbzD28PCh4ZuWgYTw6o799Nm3PPtA5IhXTcLioENuGo2rqlLePSzGxEMe9YTtUNbyYjlmyanFxdQVj79dCNNGPl4Jy3dNFvvH9V0cwzn0Qd-A4usIBVu7Wxfw4-mxkICAR0caf5kXsd_EELidMES-URtYD7noPI3nWmVB9hcf9KYJEPIm6VzEVvSmFJIxhnfq_Ge3aGbsB7pj-E1WttKT5IeUw2NkMAYqqxhk7O020a1o7EXUIS0gwsR2j1ex6KV-o1lZOWXlGbWqwhpSSVUkUed_DdyjoPboJDIeCyR5o6UUjEoYaftJOu2l1jtRvfaP4nZ7TYgvFM6fHBN6Ko7rbgKewsgd32vi5gXIVIYyk1doLDgmDMmxOSuSOqWiL3YsdslVt2UBXpkoR2jO8ifS3oZk00XIjcVwcV3AqAdIfj2f9ishFpO2kbZDk77z7_trplYWdG2HFGetJ3M3YfjabNqpo13zYvup1FStEpH8Ay3iUUWsEaMIxPCvoCcCL8w0V2ERQ8h5kPgPK2SGt8eqxT4kKDxESRFX3wypqSaLNRYyXaHxbTjyNNT-D-UEhyNsuoApgg0Lt89OMxpYX45VoIC0pJrUMWQwjp8wFRINl_HQs8OP5TdK7wDPkgEwtmjcpXsI7HneZ-l3O1TlrHSPd0_q45YDl4R9AObFGMlxNtn-Bbm6aeAM3NbN-EMCE2hscrkFGsItznRail_20bydF6N_tBvbxHbEQXidA9NzMCxgmpplWODrn--qNFItZhXkK0akrMMrvTLQr6jYswF6Q5vVabVDxcGZQECGJJvF9XLyvzDho6ozbIcegaz7CwkUkQRBJJIDt4bm8Hfhk8hDiYO44MQqg9aguq_XlGCjYd2gykGurT2f8v7dvzREPFQ0g8zarbcUX_WaViETRI7rFG8avdkkCKuqxvLKYMyjtlGWYzCAT_DHZeuqVKn8skEWMtgYNBiPhLn0sSo7VjgpgNEgURSw8Bh07rYCfHNlZbbXR-7rIW7zGsnb4_I7Duu1vLYkq39hhDkpYoPG7zfPOJFLwiUQi7Lt33xl6Lp9dG8S2nqtCMEzrrog1Gx5utwhxlbPU9gW6yLOdn89sUDSzaOBUAsmkvLS2kQB2HCwarVFtZvYEhTXR0k5CBJ81nTpFSjKavS07FiDjw4Sk6FD8wAU9qKcvLnYjK1ClXiTeQD9vJPObH7T0FC0HAAG0xkBErlDGAAjYiIANQqs_Kfk0HaocO_tHgKgNOVlN6jbVJsFkw2qYo9s259AKtVODO1NpGQIC3Pikbsv21QWQbdI83GUU1m58EdLT2DEKCs2Gzw0obQyGB7MlNliMfjZiKrQugTrFFLHwT_edEJO0w5BZjdXCjTG3qAu2Dbhnrgss20oyLyA-5XDVf9RpqyucuGP5QZXfC-AI-cZl3zoItMQu9ocVBcemYyM6ioTyLktb5JLidavKo558EE3N4RuhPywqOdVAGhuLos-FPOZ0lDjJmGCWX2FHqTdh_NBaxXxlox_FUqpI&redirect_uri=https%3A%2F%2Fwww.instagram.com%2Flogin%2Foidc%2F
+2026-05-27 22:45:56|https://www.facebook.com/common/referer_frame.php?cb=1
+2026-05-27 22:45:50|https://www.instagram.com/fxcal/auth/login/?app_id=2220391788200892&etoken=AblMc1bBusLMUL-LFERREmLS7nQVQraW9XUaVRQYWU-dJNUtjRcQ7IpYhyXXHSdS_CWnovsL08YtMc4TzzHEQv23On4rIoDNKtSTFBUCQzS46LqXmJ4&next=https%3A%2F%2Faccountscenter.facebook.com%2Fadd%2F%3Fauth_flow%3Dig_linking%26background_page%3D%252F&flow=igcalcomettest&entry_point=fb_web_settings&is_initiator_feta=0&fbclid=IwY2xjawSEfZFleHRuA2FlbQIxMABicmlkETE5Smx3N0s2cWhYRElZUG5Vc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtGTX4LqFjRvW4w5iYKNeRFDQoBeoweABpuiLEmRNqiGDx_Xy4fvaQainrld_aem_5IByZPRWbNaejJ-OzBcwPw
+2026-05-27 22:45:50|https://www.instagram.com/accounts/login/?force_authentication&next=%2Ffxcal%2Fauth%2Flogin%2F%3Fapp_id%3D2220391788200892%26etoken%3DAblMc1bBusLMUL-LFERREmLS7nQVQraW9XUaVRQYWU-dJNUtjRcQ7IpYhyXXHSdS_CWnovsL08YtMc4TzzHEQv23On4rIoDNKtSTFBUCQzS46LqXmJ4%26next%3Dhttps%253A%252F%252Faccountscenter.facebook.com%252Fadd%252F%253Fauth_flow%253Dig_linking%2526background_page%253D%25252F%26flow%3Digcalcomettest%26entry_point%3Dfb_web_settings%26is_from_ig%3D0%26is_initiator_feta%3D0%26web_auth_logged%3D1
+2026-05-27 22:45:49|https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Ffxcal%2Fauth%2Flogin%2F%3Fapp_id%3D2220391788200892%26etoken%3DAblMc1bBusLMUL-LFERREmLS7nQVQraW9XUaVRQYWU-dJNUtjRcQ7IpYhyXXHSdS_CWnovsL08YtMc4TzzHEQv23On4rIoDNKtSTFBUCQzS46LqXmJ4%26next%3Dhttps%253A%252F%252Faccountscenter.facebook.com%252Fadd%252F%253Fauth_flow%253Dig_linking%2526background_page%253D%25252F%26flow%3Digcalcomettest%26entry_point%3Dfb_web_settings%26is_initiator_feta%3D0%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExOUpsdzdLNnFoWERJWVBuVXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7Rk1-C6hY0b1uMOYmCjXkRQ0KAXqMHgAaboixJkTaohg8f18uH72kGop65XQ_aem_5IByZPRWbNaejJ-OzBcwPw&h=AUDRZNDwqLDsYCOPCor36cRU746SfJSQs-8ZlvGB6ms2irhHPK9wtp-bIvKpnrcu8LR50P5XLPUGJMl57F-FFfYub9hAG_GZITkp7egnp3SZNhrlo4k6V-WoG-DhPKBBvbdelo7p7heQhw
+2026-05-26 08:10:39|https://accountscenter.facebook.com/?entry_point=app_settings
+2026-05-26 08:10:26|https://www.facebook.com/settings
+2026-05-26 08:10:07|https://www.facebook.com/pages/?category=your_pages
+2026-05-26 08:03:38|https://www.facebook.com/
+2026-05-26 08:03:24|https://www.facebook.com/two_step_verification/authentication/?encrypted_context=AWT1NSrUqK1FfHnM4qHT3cb_RY1bCsdiAo6tyYW0VA7NfSspt4U2r2d3cnUozlLvFIYokJ6BUuAqLLdbOrT0cEkT0MkoKkrkRLYOB2yb3Q-pEtpfQ2rmmqBlgUaE41LDmeM8QxvNnIg7S6kWEwdzhiAlOuZJO0CxybE3fRDX23dz_xfvPuyZoaYl3SPLa4BraHzcR9la5YvxOBCtGUkG1TAHfa3YtOygBvPXK1zfrTUc5_ecLrY58Lhh8p6x1FzueXitXDsEwwSTlKiBWe1Ots9JOjeJeSI3DjRqRFRy2rZ3AzF6Rjr74S__VnoGu9VfZpQ1bD9yHuL5iZWszqo2Fa4jkvgpcC3C0bjMs3ux3ykFd95NnVZviYGaZBnt4AsAzyY1lSXl5cHmNwXpbH055RvNosZbOKu5yEpBMKxJsDEyx67GdCYdXRBxaoodlsAgRDqdssFbf8DIcpvjuSbTX_QffS4biqkyY1xyolVm3mAYLzsLruw49nk81c6dtG5xlLvJr8xsg02m_eKSUARcDMVGnjBmiURQ7HvCsy9DU8wp0nQQ9q17g8f7JS-RFHJ5T35ChSw-M9pMB2tz-A9cJVl9_sKFk6oQ-O1LfB887QwpEqTm6PiMtqcbX8ZCt0V1qwhTgII0zZ_lKAZ0ZBSuTxeOOwAQMi6Ii5-lRnJx72t56M8VehNAA5E7Uz6z0SZ_iH3Vv7RBAby69_hA7J9PzH3Di5RnzagGVqlkRYe3KK0QlNodEIXvlKJm5hQcv8SQYi-9BcBYMlqQ627qf8Y2JYZnnIsADRZluraDdFCSfXu8VSUULjm_gxTApTSD8eRAUkEmb0bitxRknasBrua5Lx3Z56S8u-mwSw5SkzTU_2KcdOT6GrbBqCh3dqP_z1eDyU--WUCJbcI759coHcaT8PYdqlGYm8--kdtpLzytmISG6o72em4BjMGfLKL4neATePxCu_v7ExvVGEwqA6cQ2svJ_Ch1sGYiGG8f76_kVKEJ9WZB5rxJ2GJNG74xL4MqBb_7dIa31jYCtcOCxuU8ytB3_7l3jGF6eVdsuvOnd2fo3c1rsngHbn_AWoGgFlJ4EGTsFVhQYPvL8bh5dAoY-8WY6gullKzB7AyX0GBk_O3anlPBKpipj6XISxWP_Y5miQ8ZGxiw6Hm69HjO5KM50cKGmMzXPYtJgD0W-E9ZmiSIrz5A2gC3612Ap5lwUO4CaQxjbLO5YZuIxYw0ufAyWOsS8y1JkIkRfGoC4N-Fa9ziIM6TeBirdBn92Am3m2fBQgbz-zUcUE_aj9T2u4IhoBI16kt-b4cJNMe-ZNpEriivbcK_48kQAjhtCkYhNYxIhrD4OIYQ23_ZcnrGzqLPxdEk24RsmxBC5UL1kQEQLRtNnr8nVbpEDXttNPUR5Fwd9Ou7h5vcEvQ6e-KYkDYlBAHBHK_l30LCjyAscFOgEXMxeXlCLWIUmO4lTabGlFzd3PX2J21w9lX8w9mpLTkm_3XX53iXjwNOr_jLSycTF5LLkoBF5Vd4x2OTC7GjokQ617ezQv_iZeU_iQE_5D6xWgOn6eiDhwN48X3r8nz2eqMHK4jXRqgtpbMQNQB95TKKLrHnFGydyniFn-g2fDqlWwE&flow=pre_authentication&next
+
+[1m--- Busca por email 'atendimento@ideiasblah.com.br' nas URLs ---[0m
+
+[1m--- Busca por termo 'augusto joão' nas URLs ---[0m
+
+[1m[0;36m==== [4/6] Mozilla Firefox ====[0m
+
+
+[1m--- Perfis ---[0m
+  Nome: default	
+    Path: OiKIGqoj.Perfil 3
+
+[1m--- Histórico Facebook ---[0m
+  [8ebrlge6.default-1779786464091]
+    2026-05-26 06:09:29 | https://pt-br.facebook.com/
+    2026-05-26 06:09:21 | https://pt-br.facebook.com/help/185285184853471/?helpref=uf_share
+    2026-05-26 06:07:29 | https://pt-br.facebook.com/help/1058033620955509/
+    2026-05-26 06:07:29 | https://pt-br.facebook.com/about/login/
+    2026-05-26 06:07:26 | https://www.google.com/search?client=ubuntu-sn&channel=fs&q=facebook&sei=w2IVasPdI8nL1sQPlLyEyAo
+    2026-05-26 06:07:25 | https://www.google.com/search?client=ubuntu-sn&channel=fs&q=facebook
+  [OiKIGqoj.Perfil 3]
+    2026-05-27 17:54:05 | https://www.facebook.com/
+    2026-05-27 17:54:05 | https://facebook.com/
+    2026-05-19 20:07:17 | https://www.facebook.com/
+    2026-05-19 20:07:16 | https://facebook.com/
+  [wj9hmeur.default]
+    2026-05-29 22:38:54 | https://www.facebook.com/login/?next=%2Fbusiness%2Floginpage%2Ffbauth%2F%3Ff3_request_id%3Djgbjcalnaoillpckfldldfpaolgckicjmlfaapjm%26next%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252F&request_id=jgbjcalnaoillpckfldldfpaolgckicjmlfaapjm
+    2026-05-29 22:38:49 | https://business.facebook.com/business/loginpage/?next=https%3A%2F%2Fdevelopers.facebook.com%2F
+    2026-05-29 22:38:44 | https://developers.facebook.com/
+    2026-05-29 19:26:40 | https://www.facebook.com/recover/initiate/?ci=AdBGUrlqOwG4AXwTwAvvRtJgFhrp4ocSrGqNu7XdvODNaQt7eKaPWL9RNEBSk_aY_7EpCQuVMSuF-piONNKuhZEfeqtSLk3AmIF8UMzJImfxKV6328eJz2vM27uiu4qtRRyYP-2GGN2cIosxtv2qQ4sAAGHlOg1IpOPg_fzyzoDZYejsBTLOk3ubm1UL_o-5kyjxXKP54o6dMz4FoNbpsGZQevzTUZnqAB5Wnt5bkpLxLJHdZ4T9cLqgl0w6Ll2yshwP-J1IZDDt43rHqAHGiozIJK_9HnXsGfqUB6TdxzLnCPbFDNgt3lybNY7DKHjXNYxMwYWPS6tZqHjza7Bd5zJ9-ZUQoda-l9_ArS5wagYRTUF-o_n9Dp_jx00evcs4MYIAKsnaM1g6QvaYY4VQ3Yjxtw6BypN84TDvfvVam-tEoBsOw2205eKL0AoQed8gAcy1LoFXwh4HOtJkTaCtVkr8k6yChPjhUJNCFruVFnU5ka2BJzntXzrDNKCk5zyw3foGQvHF8VclfV0Syd9-_NfcXsg3J4_xXkXThbsDcj2DQproI0nRvcHxNCMZDy0fnVy6aist_Ix6nxUeoirAziMuccXhCEfSptRbTBnlG1JFFShgSjGusJVnhwwl27dwbZ2k7BXLoFxCwl89mPyuTS41HEUSWnXrsd6yb32w_9OS4kOFRZQbcK3e3MgC0bouf2z9Ns5gdcdfcuedZ4Ie6tez8VKxCKL4_fKBhpVog2u6NodNbOnQafZApfjOoVtHycPgkNCNtWidKJd9z-sUomlNb3T5UUUobog-bPLjl0rmc05AHPtzrB7NPxuPjqbZmvcvonAEokV7xo82X2DS7_QmJU5cRTWy0Snj8RkGwK5FBdcCvvwRTblYgNvuTleeRnyf4XMeQWc4nHu80McsmXKOM4cOkxqty7Jxk_f3VkKM5bt3bLcHgEeeuHHQWCF7xpyaHYiSH-g7rhcFO98WAq3BRkkse-QlhHOKgcIeGm6s72wy1Ul3d4Z1oJ_AB6CAcU7kDVSQ7zSPLuRWtvq-egVExAVOJq3YdAVFCJkU--WHsre_49NqoiNLOHYZTNb3Ns-AZY1qV3YPRgydXn1smX3SYPblPmIsNaSJWMZEGaH9Iz2Knq0f-AqkmNuVGOdBkP7-u-YuTKXzDadv3hHn0fqNadSKUdoK_72RG740OgNNDnD1FxQF6gz8HrAshfCzHsINl5QFdvj0lQQNFzRUKe_ngkqB_Frn22vLUH4NBKBOmmYzkwZe2T03qczktDucjCMxf7hqC73IEfydxpckeXqGg4a0KYAgDGfqAMRc4ScnOXgzBS2BH1hR6YmTNIb4XnHH1i4z13LipVUo8QC821fgN-gkXgTgMtg7i7PbMq8HDB-EwfEWZXaRnmgs8cBOr8c6serMl0cWdUeJSWxwTBcG2ZN2CFx5eYwSjzktFSBVIrwR9CLM_vZ-4lyGvCf30xAJN29Y5CmLZSaTVWuGkH8PmZWc-Nvz33vE1xf_f9e3drrAW-6y0wyizxsN6bRYk2LoftyeUVCUdSGRK-Qx9VQgZUmMVtDyP6VKGY0-WpIE0gRLAax-Dg0lTQ
+    2026-05-29 19:26:24 | https://www.facebook.com/login/identify/?ci=AdCj1rRzYhmCis0zte3I0JiCHyelUnBe46O3MXWmOrfYPAKyAtHSRWkKo-yDSP4U937fBxjSlmXNELIgRi4C6bfoZMvaLw0_B7nDnKZgGLYckRIGHDZsotZjTyH1YJB5BBIKRISbW9-Y0BR-HmslO5gXC2CARm6hePdZHR4ZxgCvp0oVBid1zEVJKYDwudJNfY-bCj9zI0T4WUJWrUHLRoA6vqnl1vEgdzM2J6hH3ICZyKHCJoU0Hqew3pwvUqeuRi8lMQ0sdnF07y2rvgHjNT-rQVAKLL00T7MKXRdlxOfWITWvGpi64le61jJZ8JLuqjFtMbIn3AnLQrmK6Z-E5_D_PcCDemvfWBlZWJuxFBsmb_6BIQqZ2jl5KpFk57oQp-ge8ouMahGVEwxHD7j2L9TnZIxrcwLnpfOjj42OFsnfWvhVspR8XYhGXYkDDj9XcQ3x-2xLX0hBXseCBo8EJB81VkCdGs_bH3vbfy064Qpq5DVVDjIHJZoYDZAcPx0t9q-g_lGt1PL4gfkAYzfNFxk6_ipGvP10-j7g160BxkvP8zbjnpTYOklsoxiSZApa029-0-wdV1plVdPkIlx_Z4XFwkRuS4jCpWpPMcAtl1_aKrntAhs5HgI1Ui7zILeiAaKELXdbzoITllQ9coNVHvnsggLqEFKcNLU5mbtFSVkC8IDXf92ynNOcEDZR7U92LfLuPSdc6uKZzjrEL8tLEUfSifBGFibXjg1KmPCMvsXGtLaXYbel6c3nBNu1kdPnJ3Lh0laDnHtOkVGnSr1Za3InUOGCTUbcWGql0Yjl
+    2026-05-29 19:25:49 | https://www.facebook.com/login/?next=https%3A%2F%2Fbusiness.facebook.com%2Fbusiness%2Funifiedfblogin%2Fcallback%2F%3Fnext%3Dhttps%253A%252F%252Fbusiness.facebook.com%252F%253Fnav_ref%253Dbiz_unified_f3_login_page_to_mbs%2526biz_login_source%253Dbiz_unified_f3_fb_login_button%2526join_id%253Da7c603d5-aa5f-42e7-b8fa-b62112c0203c%26f3_request_id%3Dkoedfkenhkmnnalabpmecamcblcmnaljmjpjgoii%26full_page_redirect%3D0&request_id=koedfkenhkmnnalabpmecamcblcmnaljmjpjgoii
+    2026-05-29 19:25:46 | https://business.facebook.com/business/loginpage/?next=https%3A%2F%2Fbusiness.facebook.com%2F%3Fnav_ref%3Dbiz_unified_f3_login_page_to_mbs&login_options%5B0%5D=FB&login_options%5B1%5D=IG&login_options%5B2%5D=SSO&config_ref=biz_login_tool_flavor_mbs
+    2026-05-27 17:53:14 | https://www.facebook.com/?_rdr
+    2026-05-27 17:53:13 | https://m.facebook.com/
+    2026-05-26 10:29:31 | https://www.facebook.com/recover/account
+    2026-05-26 10:29:30 | https://www.facebook.com/recover/account
+    2026-05-26 10:29:23 | https://www.facebook.com/recover/initiate/?ci=AdBo7GRquO64Zc-TSWG-unhvWuqsN1W6Lc9O3Pq-Qre-qye7sqW3tN-7TdDxjkV-U_BNql3GF3QeDbMM7-CLpK-T3r9sLU2kmvDit0hCD_Yi_Y_7wAtMHPY4EjKOYC868AQvgMvZpvTV7BukMGWQkq7dcD45Em2Clse2QaRP0pyx4TirHi6R5JYKB6WQZuCHYICQomc5PJ4lNmg739YTkC8vFkF5yqoUKJxHSgU0j9Gea4ayjmnVf-XSduPNmqNsttQF-E9q9JgGQHQfSN6hn-MGj_x0hYHo0eIBTWGcGv5dpBuR_1j9uFiQ6Rmu7B5AbD5cOa8eJe2FPeLbeWknPlqUv5vmJp_c3cEHkzU67ogAsGxLePRrMdhfc_dpl5E9XCcug-QA06LnuVOU1kclVufo5UhVLuZ16iajJ-V6iW-M0CKrouyeNRZYQhI8byCcEwLzj4-rXEeSNpHqT2H71DoL8kDW-XJA3KNIJcN7GvTh-0GtjUjhFKAP9aoasF-OabCRGVuaTdvXvMAX2KVnF4j6GxkirHG0-xDUOW4TeW0qsPqbCfrPymNL6ImPE7R4L7G1ya27mCnlD2OmCpVjTuWI4b-MaAYFCDtSR66ueqviH0D47-skPsHpw8Y8ZXJtFTJmSbtfF2J8xwJiLZL01IRMxQ
+    2026-05-26 10:29:23 | https://www.facebook.com/login/identify/
+    2026-05-26 10:29:23 | https://facebook.com/login/identify/
+    2026-05-26 10:29:12 | https://www.facebook.com/
+    2026-05-26 10:26:43 | https://www.facebook.com/?_rdc=1&_rdr
+    2026-05-26 10:26:43 | https://web.facebook.com/
+    2026-05-26 10:16:52 | https://www.facebook.com/two_step_verification/two_factor/?encrypted_context=AWSNJyLB-1oRGeRanbaeI-GWgcOA9sNK9m_borTQfvtoOP2KJaFEXW08AyMk4SmYKtX1HhvjnluWdr2Zf_yCki9vUdCrgTKQ5nrkgQJDWNPCG2xQtF9mdktd5Wci0j2oCmp0Dc5bfXJTPV9yyOHR9cJOctdIkEHeGkAfCzLNUiU-ea5zuIJJ-36nucr-G4axqCeZcqzwaIChUwj13DSUTLEgGrDqvsy6bxvIGatXScFqcIKxxlvllC0nVE2rX8d8D257pkrqOBVXubeBJkVCHG-a4mK_g_7_6tPDUiS4SsvM9mXmZohXxzr_OWSRPgePqEbdFUpDQNKN690AYHrRWWYKK0rk4fFtsHGGErLHACgPalpOKEzMm8bm4f0y0gpsT9NRIqkFeTBMLMwtVsRCFf8z3iEjwS7elwTOaEg29Zpvn37bDKsrWUKlWsEFoqgnErPWQZmiFFlmOM7NVGH400oS-sgjNNJ8GJVoBjC40KV-nGoOdsifJ2gufCChSWdula4ayhbeU92QI08bkL6UZb-P-XSgnApDZ8S5cNAzgTK5h-vzp4fXYAr8OWeHitslpHSBGQAke3AjRk3j7W8_c1cQDABAzjRug3x-Z4n0bl7WK6md5DWGqLJzs5U66QFu4g7uP4KaaF0z0LRAAuAu6VrtIEcy3LOwbtLIBgllfb2gEFtxCg&flow=two_factor_login
+    2026-05-26 10:15:53 | https://www.facebook.com/recover/code/?ci=AdAyXET6w7gm0xybrih-xhr4KGmn5VfklYT644i8C4pup61H-oNrDkfzmj93ViOIA_Qbs7pyFyENxZIjOrJEjGcMv6lvCHp88N-LhQrmvVyAmp-gZOmVnfIdeyBV9sAufyh7Xl8PmXKSR9dKVn16itWtFd5hc20uwstVya5ea6SnC9em1mc58OoAYpkV49l6AuUYckrxij9EREjRNJTJ_5tLQtwEVJEoEfeFhjFZ3IxkGTXFNY98qRkxvabgQgnA09dfR7IgCI8z5tXTeU-5MuLKYxsM_mpbum029J-STPYKUrE7aXHcUE7NSjKi1SsEBYbxtttrzOJqF9kXOCeMr8z9IsKONYlq__Lmw-MuYKVRFi-hC_TnyWzyKfVBNjjJYuJlUq9ouFD-qwqT22aZAZXI5V1UzTDj5X9A99e_Vu8nvVJxEe8J0rzg42kVJa0IEATNADpWVj5zeoRU81T-lZsN_tYGeOtG3NtuGWGfLbZw7a1wdOpPYtTeEb-v70rfBlwsX2OGPTJs6-U_VlQLbo1XtM4_R_QUo-WGFfcidylcQinUUBGCTwdU9USHQyoTsI1ZwJQhbf-8pN2LaBZqNNhr5Ut6XCyrujJWAxid0mZwlEmbydYADFeZwq0SDMWzb1gF0WTu49OFRkiZJ35lP6NN
+    2026-05-26 10:15:45 | https://www.facebook.com/recover/initiate/?ci=AdDODMIraU-VsXaB_tLLcKSXUYgs0x-Bih1RJWXjwhCPyjUZpUnZXHkftOTajOLttwh4Rf4fSk4B_T5JzPgdNZJWYcFEjgW64kknb6p4H5AfwsxGyE-LsB_QO7tPb_PoHUYSRyXxVp6VoZ67yF7xsS-6vaZBCgQEpnVivUUAtE_hC-aCNvc9ZG4kGG7W_wqVRiXCkZBDcyZbZ8NCQElwYqc1Uf_nO7HwHl2o4X6KYxFdV4SjE-EhXgFwwI24My05NwKFM3PAKrEr9nvpFzM3jbR8tz3lZacvJEZlsgmFtngLos4YOL5QB2r-bULYTMbGHCTpFGhe7q6EY72J2tteqLnIJ0JySAyhWNwnEzGwABm9SEKZ2Mb9pTr7Jct7lVzYfL05rlORDsrMnKYIQ1XMIkxIFbcRh2Uq2quQxx1zmHwDPX0Bsp7_HplKGZELBFHEdq2joDeFmFixFeXuhTA7oH9SMH7hIKDV52zqcRFXA_8dGz5B8touDsA-fk3RyjEQbiuFdHFPt8CPCERzh-F7R6ycSdMkwMBypfF1XCCsXY54Iy01_3T_h1GiRS1Z7KYHwHOMF9GlT3eDA0r2DsQuZErZIhXZeOH35DMvFh2WPUobBNJ1RPEUHglHtDspwP6N293TUZtRxy6Kq78pQ4lBxEZ_LNSVyCu0ng6QDbbvp2b2VEZpUu2K2nBvSyFJbyeHaxRSheVgks8_7IQFw8g_zlRoX0NiHUxb-UqDlxEvxPv5OW3G4E2Uz6ACzICZm4cmzvJIM7oeijUgs0T1oIkKKVri8FQ4CRADnGmhHdZpOj-Lvg1bzhvybS-zJr-Bg69ZBuOzhKCERjZtCnR5FFQWTct3UEsky045tTaefkHFvN69EDCgh0o27yOJdVsdm7ulxyTkglIiu4i25644FGuRlAPWyfo5rOLkTPErVif59HuNc0kVTACuMgNR8Y73Q0DsFjXmy-JjtgrZmkMhZcs9MbYU1a-01Co-zfDfbKcHUYN5B4s_lOKWvqgtX_3y7PDqJ0RjaTK83eY5ozB1
+    2026-05-26 10:15:38 | https://www.facebook.com/login/identify/?ci=AdBSY9ciwE7fbbP-VPZTmXKFv-6TNdbeVT19rbxAD2b9tS2FZ3Ftk-Mrufh86dLD2lT_Npg-QlFG4mERda75k3ppPcnpDTuAGqgnnT_erS8zTRUxhwYiXmH3Wi-bOBDaCdfGKMSWT91edXRjNKw2EpqIRLqOj06IAW1zdXKBgPng_vdCRNpJ4LzLhyy9ECoDkNQSK__0lt3BHo1Kl27d2Y70xjMyeYBYbUpmALGTfdeMIYFAg7d7YjwHcIVnkDSyjLgtOHSy78Jmjlx4JZKEIGqt98o
+    2026-05-26 10:14:38 | https://www.facebook.com/
+    2026-05-26 10:04:22 | https://www.facebook.com/
+    2026-05-26 10:00:22 | https://m.facebook.com/bookmarks/
+    2026-05-26 10:00:14 | https://m.facebook.com/
+    2026-05-26 10:00:12 | https://m.facebook.com/?deoia=1
+    2026-05-26 10:00:03 | https://m.facebook.com/login/save-device/
+    2026-05-26 09:51:10 | https://m.facebook.com/#
+    2026-05-26 09:50:44 | https://m.facebook.com/
+    2026-05-26 09:50:41 | https://www.facebook.com/
+
+[1m--- Logins Facebook salvos ---[0m
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2025-01-27 05:01:10 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2022-04-02 21:07:27 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2021-04-20 00:38:55 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2023-06-15 01:46:21 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://accountscenter.facebook.com
+    Criado: 2023-12-03 12:59:16 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2022-03-28 16:40:29 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-09-27 16:03:40 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2020-01-24 10:41:08 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2022-02-23 20:02:00 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-12-03 12:59:16 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2022-03-29 02:45:53 | Último uso: 2026-01-22 15:22:53
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2022-04-02 21:07:27 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2022-05-05 18:44:41 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://web.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://web.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2025-01-27 05:05:45 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://web.facebook.com
+    Criado: 2021-12-13 04:13:14 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://developers.facebook.com
+    Criado: 2022-07-22 22:24:48 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://web.facebook.com
+    Criado: 2023-12-03 12:59:16 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2022-07-15 00:14:32 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2022-04-02 21:07:27 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2022-05-30 18:58:14 | Último uso: 2026-01-22 15:22:54
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2023-12-03 12:59:16 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://facebook.com
+    Criado: 2022-07-06 12:42:39 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2021-09-29 00:29:21 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://developers.facebook.com
+    Criado: 2022-07-09 00:17:02 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2023-01-19 23:16:26 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://web.facebook.com
+    Criado: 2022-07-07 11:11:19 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2020-07-07 07:39:40 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://facebook.com
+    Criado: 2024-08-11 11:15:55 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://pt-br.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2021-09-14 16:38:51 | Último uso: 2026-01-22 15:22:55
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2022-04-02 21:07:27 | Último uso: 2026-01-22 15:22:56
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2022-02-17 03:17:50 | Último uso: 2026-01-22 15:22:56
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2022-04-02 21:07:27 | Último uso: 2026-01-22 15:22:56
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2025-10-30 16:42:59 | Último uso: 2026-01-22 15:22:56
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2021-06-08 23:12:46 | Último uso: 2026-01-22 15:22:56
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:56
+  [wj9hmeur.default]
+    Host: https://web.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:56
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2019-12-04 17:47:29 | Último uso: 2026-01-22 15:22:57
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2020-09-23 09:03:21 | Último uso: 2026-01-22 15:22:57
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:57
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:57
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2022-05-18 11:26:05 | Último uso: 2026-01-22 15:22:57
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:57
+  [wj9hmeur.default]
+    Host: https://facebook.com
+    Criado: 2025-01-07 02:47:51 | Último uso: 2026-01-22 15:22:58
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:58
+  [wj9hmeur.default]
+    Host: https://m.facebook.com
+    Criado: 2022-07-07 11:11:19 | Último uso: 2026-01-22 15:22:58
+  [wj9hmeur.default]
+    Host: https://business.facebook.com
+    Criado: 2023-06-05 12:15:26 | Último uso: 2026-01-22 15:22:58
+  [wj9hmeur.default]
+    Host: https://www.facebook.com
+    Criado: 2023-12-03 12:59:16 | Último uso: 2026-01-22 15:22:58
+
+[1m[0;36m==== [5/6] Brave Browser ====[0m
+
+
+[1m--- Histórico Facebook ---[0m
+
+[1m[0;36m==== [6/6] Senhas Salvas Chrome (Login Data) ====[0m
+
+
+[1m--- Facebook logins - último uso por perfil ---[0m
+  [Thaner [thanermaia@gmail.com, gestaoblah@gmail.com, pimpolhosmaia@gmail.com]]
+    2026-07-01 22:28:12 | atendimento@ideiasblah.com.br | https://m.facebook.com/
+    2026-06-29 12:21:28 | thanermaia@gmail.com | https://m.facebook.com/login/identify/
+    2026-06-19 15:02:40 | thanermaia@gmail.com | https://business.facebook.com/invitation/
+    2026-06-11 13:08:57 | thanermaia@gmail.com | https://developers.facebook.com/apps/1722854025511534/settings/basic/
+    2026-06-08 17:54:44 | atendimento@ideiasblah.com.br | https://web.facebook.com/recover/initiate/
+    2010-01-04 05:58:21 | softwarehouseblah | https://m.facebook.com/login/
+    1600-12-31 22:00:00 | thanermaia@gmail.com | android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+    1600-12-31 22:00:00 | +5535984243091 | https://facebook.com/
+  ⭐ Email 'atendimento@ideiasblah.com.br' encontrado! (últimos usos):
+    2026-07-01 22:28:12 | https://m.facebook.com/
+    2026-06-08 17:54:44 | https://web.facebook.com/recover/initiate/
+  [MaHair [mahaircosmetics@gmail.com]]
+    2023-04-17 10:37:53 | marianaiaragontijo | https://www.facebook.com/
+    2022-08-12 05:00:05 | marianaiaragontijo | https://web.facebook.com/login/device-based/regular/login/
+    2022-08-05 18:41:36 | marianaiaragontijo | https://business.facebook.com/invitation/
+    2022-07-22 22:24:25 | Conversions API Applicat - Test1 | https://developers.facebook.com/apps/
+    2022-05-18 11:31:58 | Marianaiaragontijo@hotmail.com | https://m.facebook.com/login/
+    2022-05-18 11:25:59 | marianaiaragontijo | https://m.facebook.com/login/
+    2022-05-08 09:47:18 | MarianaIaraGontijo | https://www.facebook.com/mahair.oficial/settings/
+    2022-04-21 21:13:01 | MarianaIaraGontijo | https://web.facebook.com/mahair.oficial/settings/
+    2022-04-21 20:49:58 | Marianaiaragontijo@hotmail.com | https://web.facebook.com/MaHair-Cosmetics-102527892448156/settings/
+  [Seu Chrome [ideiasblahbranding@gmail.com]]
+    2026-02-08 23:53:06 | mchagasthaner@gmail.com | https://www.facebook.com/login/
+    2025-08-13 08:31:09 | mchagasthaner@gmail.com | https://web.facebook.com/
+
+[1m[0;36m==== [Extra] Busca por 'augusto joão' em arquivos ====[0m
+
+
+[1m--- No nome do arquivo ---[0m
+
+[1m--- No conteúdo (txt, md, html, csv, json, log) ---[0m
+/home/chagas/ForensicReport/forensic_report_20260702_122140.txt
+/home/chagas/ForensicReport/forensic_report_20260702_094156.txt
+/home/chagas/.local/share/opencode/log/opencode.log
+/home/chagas/Downloads/leads_categorizados_por_perfil.csv
+/home/chagas/Downloads/crm_state.json
+/home/chagas/Downloads/leads_categorizados_por_perfil (1).csv
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/hubspot_whatsapp_drafts.html
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/reports/crm_leads_origens.csv
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/reports/relatorio_cruzamento.csv
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/reports/crm_leads_enriquecidos.html
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/reports/crm_leads_enriquecidos.csv
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/reports/crm_leads_origens.html
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/hubspot_whatsapp_drafts.json
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/crm_state.json
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/integration_state/integration_state.json
+/home/chagas/SDR-BOT/Freela-SDR/runtime_data/integration_state/hubspot_contacts_to_import.csv
+
+
+[1m[0;36m==== [FIM] Relatório salvo em: forensic_report_20260702_122140.txt ====[0m
+
